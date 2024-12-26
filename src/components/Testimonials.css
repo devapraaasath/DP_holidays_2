@@ -1,0 +1,27 @@
+.testimonials {
+    padding: 40px 20px;
+    background-color: #008080;
+    color: white;
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .testimonial-card {
+    background: white;
+    color: #008080;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  

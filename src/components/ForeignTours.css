@@ -1,0 +1,63 @@
+.foreign-tours-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .foreign-tours-banner {
+    background-color: #008080;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .foreign-tours-banner h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .foreign-tours-banner p {
+    font-size: 1.2rem;
+  }
+  
+  .foreign-tours-packages {
+    padding: 30px 20px;
+    text-align: center;
+  }
+  
+  .foreign-tours-packages h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .packages-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .package-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .package-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .package-card h3 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: #008080;
+  }
+  
+  .package-card p {
+    font-size: 1rem;
+    margin: 0 10px 20px;
+    color: #555;
+  }
+  

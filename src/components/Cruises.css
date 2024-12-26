@@ -1,0 +1,43 @@
+.cruises-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .cruises-banner {
+    background-image: url('../images/cruise.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .cruises-banner h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .cruises-banner p {
+    font-size: 1.2rem;
+  }
+  
+  .cruises-details {
+    padding: 30px 20px;
+    text-align: center;
+  }
+  
+  .cruises-details h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .cruises-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cruises-details li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #555;
+  }
+  
